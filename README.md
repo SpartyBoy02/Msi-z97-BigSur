@@ -20,3 +20,11 @@ The solution is to use a virtual machine and use a physical disk (additional, US
   - LG 27 inches 4K (3840x2160/60Hz)
 - **Power:** Corsair RM 750
 # :wrench: BIOS
+- **Version:**
+    - MSI Ami Bios 1.C
+- **Settings:**   
+    - Restore Defaults
+    - Disable Intel VT-d
+    - Disable CFG lock
+    - Save and exit
+    
