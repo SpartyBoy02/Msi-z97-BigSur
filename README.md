@@ -1,8 +1,7 @@
 # Hackintosh - macOS Big Sur- Msi Z97 Gaming 7 + 4790K + GTX 770
 ![SystemInfo](https://raw.githubusercontent.com/cosimoforgione/Msi-z97-BigSur/main/Screenshot/Overview.png)
 # ⚠️  Disclaimer
-OpenCore bootloader is currently unable to start the installation (USB installer, .etc).
-The solution is to use a virtual machine and use a physical disk (additional, USB or SATA, NVME) as a target in the installation.
+I am not responsible for any damage caused to your components, data loss, or anything else that may happen throughout this process. Follow this guide at your own risk! The steps listed below worked for my components.There is no guarantee this guide will work for your components. You are responsible for reading about and knowing the guides, documentation, and programs listed below. You may need to download additional programs and seek other resources than what is listed.
 
 # :pager:   Hardware
 
@@ -25,6 +24,8 @@ The solution is to use a virtual machine and use a physical disk (additional, US
 - **Settings:**   
     - Restore Defaults
     - Disable Intel VT-d
+    ![Screenshot](https://raw.githubusercontent.com/cosimoforgione/Msi-z97-BigSur/main/Screenshot/vtd-tech.png)
     - Disable CFG lock
+    ![Screenshot](https://raw.githubusercontent.com/cosimoforgione/Msi-z97-BigSur/main/Screenshot/cfg_lock.png)
     - Save and exit
     
