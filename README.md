@@ -1,6 +1,6 @@
 # macOS Big Sur - Msi Z97 Gaming 7 + 4790K + GTX 770
 [![OpenCore](https://img.shields.io/badge/OpenCore-0.6.3-blue.svg)](https://github.com/acidanthera/OpenCorePkg)
-![SystemInfo](https://raw.githubusercontent.com/cosimoforgione/Msi-z97-BigSur/main/Screenshot/Overview.png)  <!-- .element height="50%" width="50%" -->
+![SystemInfo](https://raw.githubusercontent.com/cosimoforgione/Msi-z97-BigSur/main/Screenshot/Overview.png)
 # ⚠️  Disclaimer
 I am not responsible for any damage caused to your components, data loss, or anything else that may happen throughout this process. Follow this guide at your own risk! The steps listed below worked for my components.There is no guarantee this guide will work for your components. You are responsible for reading about and knowing the guides, documentation, and programs listed below. You may need to download additional programs and seek other resources than what is listed.
 
