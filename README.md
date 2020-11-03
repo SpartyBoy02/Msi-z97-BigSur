@@ -25,7 +25,6 @@ The solution is to use a virtual machine and use a physical disk (additional, US
 - **Settings:**   
     - Restore Defaults
     - Disable Intel VT-d
-    ![Screenshot](https://raw.githubusercontent.com/cosimoforgione/Msi-z97-BigSur/main/Screenshot/Overview.png)
     - Disable CFG lock
     - Save and exit
     
