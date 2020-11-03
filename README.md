@@ -24,7 +24,7 @@ I am not responsible for any damage caused to your components, data loss, or any
 - **Settings:**   
     - Restore Defaults
     - Disable Intel VT-d
-    ![Screenshot](https://raw.githubusercontent.com/cosimoforgione/Msi-z97-BigSur/main/Screenshot/vtd-tech.png)
+    ![Screenshot](https://raw.githubusercontent.com/cosimoforgione/Msi-z97-BigSur/main/Screenshot/vtd_tech.png)
     - Disable CFG lock
     ![Screenshot](https://raw.githubusercontent.com/cosimoforgione/Msi-z97-BigSur/main/Screenshot/cfg_lock.png)
     - Save and exit
