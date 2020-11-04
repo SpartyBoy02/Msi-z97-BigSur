@@ -29,4 +29,4 @@ I am not responsible for any damage caused to your components, data loss, or any
     - Disable CFG lock
     ![Screenshot](https://raw.githubusercontent.com/SpartyBoy02/Msi-z97-BigSur/main/Screenshot/cfg_lock.png)
     - Save and exit
-    
+
